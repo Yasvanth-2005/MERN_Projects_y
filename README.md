@@ -1,2 +1,2 @@
-# MERN_Projects_y
+# MERN Projects
 This repository contains multiple MERN Stack projects
